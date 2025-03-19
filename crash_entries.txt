@@ -1,0 +1,27 @@
+📂 File: sales1.csv
+Product  Quantity  Price
+ Orange       NaN    3.0
+ Grapes      15.0    NaN
+
+==================================================
+
+📂 File: sales2.csv
+   Product  Quantity  Price
+Watermelon       NaN   10.0
+     Peach       8.0    NaN
+     Mango       NaN    4.0
+
+==================================================
+
+📂 File: sales4.csv
+  Product  Quantity  Price
+Blueberry        20    NaN
+
+==================================================
+
+📂 File: sales5.csv
+Product  Quantity  Price
+   Plum        20    NaN
+
+==================================================
+
